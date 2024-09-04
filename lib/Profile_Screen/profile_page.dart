@@ -3,7 +3,7 @@ import 'package:image_picker/image_picker.dart';
 //import 'package:flutter_toastr/flutter_toastr.dart';
 import 'dart:io';
 
-import 'package:normal_app_ui/src/login_Page.dart';
+import 'package:normal_app_ui/Login_Screen/login_Page.dart';
 
 class Profile_page extends StatefulWidget {
   const Profile_page({super.key});

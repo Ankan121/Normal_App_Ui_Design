@@ -1,8 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:normal_app_ui/src/details_page.dart';
-import 'package:normal_app_ui/src/favarite_page.dart';
-import 'package:normal_app_ui/src/home_page.dart';
-import 'package:normal_app_ui/src/profile_page.dart';
+import 'package:normal_app_ui/Favarite_Screen/favarite_page.dart';
+import 'package:normal_app_ui/Profile_Screen/profile_page.dart';
+
+import 'Details_screen/details_page.dart';
+import 'Home_Screen/home_page.dart';
 
 class Navigation_Page extends StatefulWidget {
   const Navigation_Page({super.key});

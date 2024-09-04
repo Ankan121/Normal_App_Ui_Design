@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:normal_app_ui/src/login_Page.dart';
-import 'package:normal_app_ui/src/navigation_var.dart';
+import 'package:normal_app_ui/Login_Screen/login_Page.dart';
+import 'package:normal_app_ui/navigation_var.dart';
 
 class Home_Page extends StatefulWidget {
   const Home_Page({super.key});
